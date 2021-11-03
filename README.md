@@ -1,0 +1,2 @@
+# fonts
+nerdfonts for terminal
